@@ -1,0 +1,11 @@
+Financial Report:
+=========================
+Total Income: $1000.00
+Total Expenses: $450.00
+Net Savings: $550.00
+=========================
+
+Expenses by Category:
+Food: $300.00
+Transportation: $150.00
+=========================
